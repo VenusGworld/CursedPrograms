@@ -1,5 +1,6 @@
+<a href="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide.png">
 <div align="center">
-    <a href="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide.png">
+    
   <h2>Software:</h2>
   <div align="center">  
     <img alt="Unity" src="https://img.shields.io/badge/Unity-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
