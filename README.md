@@ -40,6 +40,9 @@
 <div align="center">
   <h2>Social Media:</h2>
   <div align="center">  
+        <a href="https://cursed-entertainment.itch.io/">
+      <img alt="itch.io" src="https://img.shields.io/badge/itch.io-%236665CC.svg?&style=for-the-badge&logo=itchdotio&logoColor=white"/>
+    </a>
     <a href="https://twitter.com/NorowaretaGemu">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
