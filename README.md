@@ -4,7 +4,13 @@
   <div align="center">  
     <img alt="Unity" src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ab7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>   
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>    
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>
+           <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe_Premiere_Pro-%23005c99.svg?&style=for-the-badge&logo=adobe-premiere-pro&logoColor=white"/>
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe_After_Effects-%23d29162.svg?&style=for-the-badge&logo=adobe-after-effects&logoColor=white"/>
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-%230056bf.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe_InDesign-%23f46f2c.svg?&style=for-the-badge&logo=adobe-indesign&logoColor=white"/>
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-%23ff9a00.svg?&style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+  <img alt="Adobe Animate" src="https://img.shields.io/badge/Adobe_Animate-%23ff0000.svg?&style=for-the-badge&logo=adobe-animate&logoColor=white"/>
   </div>
  <h2>Database & Web-hosting Solutions:</h2>
   <div align="center">  
