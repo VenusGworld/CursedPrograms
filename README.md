@@ -1,5 +1,4 @@
-
-<div align="center" style="background-color: white; padding: 20px;>
+<div align="center">
         <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide.png" alt="CursedEntertainment Logo" >
   <h2>Software:</h2>
   <div align="center">  
