@@ -15,7 +15,7 @@
   </div>
  <h2>Database & Web-hosting Solutions:</h2>
   <div align="center">  
-          <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>
+          <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>
    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23007ab7.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23007ab7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>  
     <img alt="Render" src="https://img.shields.io/badge/Render-%23007ab7.svg?style=for-the-badge&logo=render&logoColor=white"/>
