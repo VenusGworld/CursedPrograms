@@ -7,7 +7,7 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=white"/>  
-    <img alt="Render" src="https://img.shields.io/badge/Render-%#007ab7.svg?style=for-the-badge&logo=render&logoColor=white"/>
+    <img alt="Render" src="https://img.shields.io/badge/Render-%23323330.svg?style=for-the-badge&logo=render&logoColor=white"/>
   </div>
 
   <h2>Languages:</h2>
