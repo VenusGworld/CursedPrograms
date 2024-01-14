@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/CursedPrograms/cursedentertainment/blob/main/images/logos/logo-wide.png">
+  <a href="[https://github.com/CursedPrograms/cursedentertainment/blob/main/images/logos/logo-wide.png](https://github.com/CursedPrograms/cursedentertainment/blob/6bc0acc2b3347ab885e74e8c901d62e14b2e897e/images/logos/logo-wide.png)">
   <h2>Software:</h2>
   <div align="center">  
     <img alt="Unity" src="https://img.shields.io/badge/Unity-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
