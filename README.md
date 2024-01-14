@@ -33,7 +33,7 @@
   <div align="center">  
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23007ab7.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-%23007ab7.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-          <img alt="Flask" src="https://img.shields.io/badge/opencv-%23007ab7.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
+          <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23007ab7.svg?&style=for-the-badge&logo=opencv&logoColor=white"/>
   </div>
 </div>
 
