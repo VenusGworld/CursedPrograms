@@ -2,7 +2,7 @@
         <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide.png" alt="CursedEntertainment Logo" >
   <h2>Software:</h2>
   <div align="center">  
-    <img alt="Unity" src="https://img.shields.io/badge/Unity-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
+    <img alt="Unity" src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>   
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
