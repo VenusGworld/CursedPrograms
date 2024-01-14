@@ -2,6 +2,7 @@
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>
 <div align="center">
   <img alt="C#" src="https://img.shields.io/badge/csharp%20-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
