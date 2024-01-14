@@ -1,7 +1,6 @@
 <div align="center">
   <img alt="Unity" src="https://img.shields.io/badge/unity%20-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-   <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow%20-%23323330.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>   
   <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23323330.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=white"/>  
@@ -14,6 +13,10 @@
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 </div>
+<div align="center">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/tensorflow%20-%23323330.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+ <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23323330.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+ </div>
 <br>
 <div align="center">
   <a href="https://github.com/cursedprograms/github-readme-stats">
