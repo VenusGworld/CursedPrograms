@@ -37,3 +37,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie" alt="Top Languages">
   </a>
 </div>
+<div align="center">
+  <h2>Social Media:</h2>
+  <div align="center">  
+    <a href="https://twitter.com/NorowaretaGemu">
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>    
+  </div>
+</div>
