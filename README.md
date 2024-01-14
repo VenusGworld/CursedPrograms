@@ -1,5 +1,6 @@
 <div align="center">
-  Software
+Software:
+<div align="center">  
   <img alt="Unity" src="https://img.shields.io/badge/Unity-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>   
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -15,11 +16,11 @@ Languages:
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 </div>
-<div align="center">
-  Python Libraries
+Python Libraries:
+<div align="center">  
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23323330.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23323330.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
-</div>
+</div></div>
 <br>
 <div align="center">
   <a href="https://github.com/cursedprograms/github-readme-stats">
