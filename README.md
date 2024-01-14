@@ -1,5 +1,5 @@
 <div align="center">
-### Software:
+Software:
 <div align="center">  
   <img alt="Unity" src="https://img.shields.io/badge/Unity-%23323330.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23323330.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>   
@@ -8,7 +8,7 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=white"/>  
   <img alt="Render" src="https://img.shields.io/badge/Render-%23323330.svg?style=for-the-badge&logo=render&logoColor=white"/>
 </div>
-### Languages:
+Languages:
 <div align="center">  
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -16,7 +16,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%23323330.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
 </div>
-### Python Libraries:
+Python Libraries:
 <div align="center">  
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23323330.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-%23323330.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
