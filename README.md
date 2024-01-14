@@ -52,5 +52,8 @@
     <a href="https://www.youtube.com/channel/UCmTHNMTp-i1TY-jxMqSjBpw">
       <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
+    <a href="https://soundcloud.com/cursedentertainment">
+      <img alt="SoundCloud" src="https://img.shields.io/badge/SoundCloud-%23FF5500.svg?&style=for-the-badge&logo=soundcloud&logoColor=white"/>
+    </a>
   </div>
 </div>
