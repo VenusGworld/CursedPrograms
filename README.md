@@ -4,12 +4,14 @@
   <div align="center">  
     <img alt="Unity" src="https://img.shields.io/badge/Unity-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-%23007ab7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>   
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23007ab7.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23007ab7.svg?style=for-the-badge&logo=github&logoColor=white"/>    
+  </div>
+ <h2>Database & Web-hosting Solutions:</h2>
+  <div align="center">  
+   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23007ab7.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23007ab7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>  
     <img alt="Render" src="https://img.shields.io/badge/Render-%23007ab7.svg?style=for-the-badge&logo=render&logoColor=white"/>
   </div>
-
   <h2>Languages:</h2>
   <div align="center">  
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23007ab7.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
@@ -18,7 +20,6 @@
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23007ab7.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-%23007ab7.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
   </div>
-
   <h2>Python Libraries:</h2>
   <div align="center">  
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23007ab7.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
