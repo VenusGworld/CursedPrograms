@@ -7,8 +7,8 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23323330.svg?style=for-the-badge&logo=netlify&logoColor=white"/>  
   <img alt="Render" src="https://img.shields.io/badge/Render-%23323330.svg?style=for-the-badge&logo=render&logoColor=white"/>
 </div>
-<div align="center">
-  Languages
+Languages:
+<div align="center">  
   <img alt="C#" src="https://img.shields.io/badge/C%23-%23323330.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
