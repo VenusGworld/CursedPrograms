@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide.png"
         alt="CursedEntertainment Logo">
+    MD . Games . Music . AI
     <h2>Tools & Software:</h2>
     <div align="center">
         <img alt="Unity"
