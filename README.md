@@ -106,5 +106,6 @@
             <img alt="SoundCloud"
                 src="https://img.shields.io/badge/SoundCloud-%23007ab7.svg?&style=for-the-badge&logo=soundcloud&logoColor=white" />
         </a>
+        [![](https://visitcount.itsvg.in/api?id=cursed&icon=0&color=0)](https://visitcount.itsvg.in)
     </div>
 </div>
