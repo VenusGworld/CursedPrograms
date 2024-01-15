@@ -25,7 +25,7 @@
   <h2>Languages:</h2>
   <div align="center">  
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23007ab7.svg?&style=for-the-badge&logo=csharp&logoColor=white"/> 
-          <img alt="ShaderLab" src="https://img.shields.io/badge/ShaderLab%23-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
+          <img alt="ShaderLab" src="https://img.shields.io/badge/ShaderLab-%23007ab7.svg?&style=for-the-badge&logo=unity&logoColor=white"/> 
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23007ab7.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23007ab7.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%23007ab7.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
