@@ -27,6 +27,8 @@
             src="https://img.shields.io/badge/Adobe_Dreamweaver-%23007ab7.svg?&style=for-the-badge&logo=adobe-dreamweaver&logoColor=white" />
         <img alt="Cubase"
             src="https://img.shields.io/badge/Cubase-%23007ab7.svg?&style=for-the-badge&logo=steinberg&logoColor=white" />
+<img alt="GIMP"
+            src="https://img.shields.io/badge/GIMP-%23007ab7.svg?&style=for-the-badge&logo=gimp&logoColor=white" />
     </div>
     <h2>Database & Web-hosting Solutions:</h2>
     <div align="center">
