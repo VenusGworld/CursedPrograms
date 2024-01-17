@@ -78,7 +78,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/cursedprograms/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms&layout=pie"
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CursedPrograms"
             alt="Top Languages">
     </a>
 </div>
